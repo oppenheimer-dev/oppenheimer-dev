@@ -1,4 +1,4 @@
-##Bio
+## Bio
 
 - **Real Name:** Tim
 - **Location:** Bryansk, Russia
@@ -21,5 +21,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oppenheimer-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oppenheimer-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="My GitHub Stats" />
 </div>
