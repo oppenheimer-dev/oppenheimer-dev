@@ -21,5 +21,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oppenheimer-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="My GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oppenheimer-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
